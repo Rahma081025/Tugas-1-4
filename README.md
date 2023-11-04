@@ -3,15 +3,12 @@
    perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1. Jika i kurang dari 100. maka variabel i ditambah.
 
 
-   for(int i = 1;i<=100;i++)
-   Jika variabel i kurang dari 9 maka akan memunculkan output angka yaitu 1, 2, 3, 4, 5, 6, 7, 8, 9.
-	if (i<=9){
-    System.out.println(i);
-	Jika lebih dari 9 maka akan muncul output Rahma Hidayati Fitrah sampai ke 100
-   } else {
-    System.out.println("Rahma Hidayati Fitrah");
-}
-
+for(int i = 1;i<=100;i++){
+            if (i<=9){
+                System.out.println(i);
+            } else {
+                System.out.println("Rahma Hidayati Fitrah");
+            }
 Ini adalah hasil outputnya
 
 ![Screenshot 2023-11-04 121253](https://github.com/Rahma081025/Tugas-1-4/assets/147369840/e85d0f68-69bb-4059-85df-81e491494cb4)
