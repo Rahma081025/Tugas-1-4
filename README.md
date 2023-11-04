@@ -1,16 +1,8 @@
 # Tugas-1-4
 1. Tugas 1 tentang Perulangan
    perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1. Jika i kurang dari 100. maka variabel i ditambah.
-
-
-for(int i = 1;i<=100;i++){
-            if (i<=9){
-                System.out.println(i);
-            } else {
-                System.out.println("Rahma Hidayati Fitrah");
-            }
+![Screenshot 2023-11-04 143456](https://github.com/Rahma081025/Tugas-1-4/assets/147369840/2b120fe8-3632-476c-b6b7-b59580d5fba7)
 Ini adalah hasil outputnya
-
 ![Screenshot 2023-11-04 121253](https://github.com/Rahma081025/Tugas-1-4/assets/147369840/e85d0f68-69bb-4059-85df-81e491494cb4)
 
 3. Tugas 2 tentang if,else,perulangan while
