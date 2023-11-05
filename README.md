@@ -1,6 +1,7 @@
 # Tugas-1-4
 1. Tugas 1 tentang Perulangan
-   perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1. Jika i kurang dari 100. maka variabel i ditambah.
+   perulangan for yang menjelaskan menggunakan int dan variabel i adalah 1.
+   Jika i kurang dari 100. maka variabel i ditambah.
 ![Screenshot 2023-11-04 143456](https://github.com/Rahma081025/Tugas-1-4/assets/147369840/2b120fe8-3632-476c-b6b7-b59580d5fba7)
 
 Ini adalah hasil outputnya
@@ -15,7 +16,7 @@ Ini adalah hasil outputnya
 
 ![Screenshot 2023-11-04 144234](https://github.com/Rahma081025/Tugas-1-4/assets/147369840/6a7d44a8-9c01-44fa-9902-53fc56a66241)
 
-   Code ini meminta pengguna memasukkan sebuah angka bilangan bulat, mencetak apakah bilangan tersebut positif atau negatif, dan terus mengulang proses tersebut sampai pengguna memasukkan 0, pada saat itu program akan berhenti dan mencetak "Program selesai."
+   Code ini meminta pengguna memasukkan sebuah angka bilangan bulat, mencetak apakah bilangan tersebut positif atau negatif, dan terus mengulang proses tersebut sampai pengguna memasukkan x, pada saat itu program akan berhenti dan mencetak "Program selesai."
    
    ![Screenshot 2023-11-04 144600](https://github.com/Rahma081025/Tugas-1-4/assets/147369840/b59cbcce-b8a4-4352-b890-5d914ba54bed)
 
